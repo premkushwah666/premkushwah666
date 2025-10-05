@@ -1,6 +1,6 @@
 # 👋 Hey there, I'm Prem Kushwah  
 
-🚀 **Backend Developer | Java Enthusiast **  
+🚀 **Backend Developer | Java Enthusiast**  
 
 Welcome to my GitHub profile! I’m passionate about building scalable backend systems, writing clean code, and crafting seamless web experiences.  
 
